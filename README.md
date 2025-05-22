@@ -23,9 +23,13 @@ JavaScript
 ## 📁 Estrutura do Projeto
 
 listaConvidados/
+
 ├── index.html        # Estrutura principal
+
 ├── style.css         # Estilos da página
+
 ├── script.js         # Lógica de interação
+
 
 ## ▶️ Como Executar Localmente
 
