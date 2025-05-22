@@ -12,7 +12,7 @@ O sistema permite:
 - 🎯 **Validação de campos obrigatórios**
 - 📦 Armazenamento temporário dos convidados diretamente na interface sem backend
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 HTML5
 
@@ -20,14 +20,14 @@ CSS3
 
 JavaScript
 
-📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 listaConvidados/
 ├── index.html        # Estrutura principal
 ├── style.css         # Estilos da página
 ├── script.js         # Lógica de interação
 
-▶️ Como Executar Localmente
+## ▶️ Como Executar Localmente
 
 1. Clone o repositório:
 
@@ -40,6 +40,6 @@ cd listaConvidados
 3. Abra o index.html no seu navegador.
 
 
-📄 Licença
+## 📄 Licença
 
 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
